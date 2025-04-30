@@ -7,3 +7,8 @@ gitの練習
 /git diff
 
 /git config
+
+/git config --global alias.ci commit
+st status
+br branch
+co checkout
