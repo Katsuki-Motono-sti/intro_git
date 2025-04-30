@@ -12,3 +12,5 @@ gitの練習
 st status
 br branch
 co checkout
+
+/git checkout ローカル作業を戻す
