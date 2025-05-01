@@ -15,3 +15,8 @@ co checkout
 
 /git checkout ローカル作業を戻す
 /git commit --amend
+
+/git fetch origin リモート(origin)からローカルリポジトリ(※ブランチ)に持ってくる(ワークツリーには反映されない)
+/git merge origin/master ワークツリーに反映
+
+/git pull origin masterリモートoriginからブランチmasterに持ってくる（fetch→mergeと同じ意味）
