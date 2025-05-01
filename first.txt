@@ -15,3 +15,5 @@ co checkout
 
 /git checkout ローカル作業を戻す
 /git commit --amend
+
+/git merge
